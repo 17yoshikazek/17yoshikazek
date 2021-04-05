@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | BAO</title>
-    <link>https://RunqiuBao.github.io/mypage/event/</link>
-      <atom:link href="https://RunqiuBao.github.io/mypage/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://RunqiuBao.github.io/mynewpage/event/</link>
+      <atom:link href="https://RunqiuBao.github.io/mynewpage/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Me</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://RunqiuBao.github.io/mypage/media/icon_hu36c060f01a510d645b386920108b0468_41413_512x512_fill_lanczos_center_2.png</url>
+      <url>https://RunqiuBao.github.io/mynewpage/media/icon_hu36c060f01a510d645b386920108b0468_41413_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://RunqiuBao.github.io/mypage/event/</link>
+      <link>https://RunqiuBao.github.io/mynewpage/event/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://RunqiuBao.github.io/mypage/talk/example-talk/</link>
+      <link>https://RunqiuBao.github.io/mynewpage/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://RunqiuBao.github.io/mypage/talk/example-talk/</guid>
+      <guid>https://RunqiuBao.github.io/mynewpage/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
