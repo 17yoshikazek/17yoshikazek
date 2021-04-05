@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates | BAO</title>
-    <link>https://RunqiuBao.github.io/mynewpage/updates/</link>
-      <atom:link href="https://RunqiuBao.github.io/mynewpage/updates/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://RunqiuBao.github.io/updates/</link>
+      <atom:link href="https://RunqiuBao.github.io/updates/index.xml" rel="self" type="application/rss+xml" />
     <description>Updates</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Me</copyright>
     <image>
-      <url>https://RunqiuBao.github.io/mynewpage/media/icon_hu36c060f01a510d645b386920108b0468_41413_512x512_fill_lanczos_center_2.png</url>
+      <url>https://RunqiuBao.github.io/media/icon_hu36c060f01a510d645b386920108b0468_41413_512x512_fill_lanczos_center_2.png</url>
       <title>Updates</title>
-      <link>https://RunqiuBao.github.io/mynewpage/updates/</link>
+      <link>https://RunqiuBao.github.io/updates/</link>
     </image>
     
   </channel>
